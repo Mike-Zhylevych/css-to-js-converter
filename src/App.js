@@ -9,6 +9,7 @@ import OutputField from './components/OutputField'
 
 class App extends Component {  
   copyText() {
+	console.log('blla');
   } 
   render() {
     return (
